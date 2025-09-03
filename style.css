@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    color: white;
+    height: 100vh;
+    margin: 0;
+}
+
+.titleweb {
+    font-size: 4vh;
+    font-family: monospace;
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.welcome {
+    text-align: center;
+    margin-top: 3vh;
+    font-size: 5vh;
+    font-family: Courier New;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-top: 30vh;
+}
+
+.btn {
+    border: none;
+    height: 5vh;
+    width: 20vh;
+    background-color: #212121;
+    color: white;
+    border-radius: 1vh;
+    cursor: pointer;
+    font-size: 2vh;
+}
+
+.copyright {
+    margin-top: 38vh;
+    text-align: center;
+    font-size: 2.5vh;
+    font-family: Times New Roman;
+}
+.more {
+    text-align: center;
+    font-family: monospace;
+    margin-top: 8vh;
+}
